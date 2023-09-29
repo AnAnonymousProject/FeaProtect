@@ -153,10 +153,7 @@ Again, you can experiment with the script we provided shell script.
 The overall result is saved here named `study.jpg` due to the limited paper space.
 ![](images/study.png)
 
-<div style="display:inline-block">
-  <img src="images/SEED.png" alt="image1">
-  <img src="images/RFI.png" alt="image2">
-</div>
+we analyzed the diversity overlap of these RFIs. Taking the practical regression scenario (i.e., ID 25) as an example, when fuzzing the model on top-3 selected old features, the Seed Diversity and Behavior Diversity of RFIs only shared 0.62 and 0.41 Jaccard Similarity, respectively.
 
 ![](images/SEED.png)
 
