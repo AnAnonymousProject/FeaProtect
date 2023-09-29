@@ -1,4 +1,6 @@
 # FeaProtect
+## Contents
+This repository provides the code, models, datasets, and comprehensive experimental results of our study and evaluation process of FeaProtect.
 
 ## Description
 
@@ -42,7 +44,10 @@ Here, we briefly introduce the usage/function of each directory:
 we selected 25 subjects for experimentation, including 24 manually
 constructed scenarios for simulation and one practical scenarios. These datasets were
 obtained from a variety of tasks, including price prediction and disease diagnosis.
-
+In this repository, we have included several models and datasets. 
+Due to the large scale of our study and our experiments, which involved 25 subjects, 
+we have chosen to provide models and datasets specifically for Mobile Price Prediction tasks for replication. 
+We guarantee that once the anonymous period has finished, we will supply additional models and datasets available on Google Drive.
 ![](images/dataset_model.png)
 
 ## The Requirements:
