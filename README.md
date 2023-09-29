@@ -153,6 +153,15 @@ Again, you can experiment with the script we provided shell script.
 The overall result is saved here named `study.jpg` due to the limited paper space.
 ![](images/study.png)
 
+<div style="display:inline-block">
+  <img src="images/SEED.png" alt="image1">
+  <img src="images/RFI.png" alt="image2">
+</div>
+
+![](images/SEED.png)
+
+![](images/RFI.png)
+
 ### RQ1 
 
 The overall result is saved here named `RQ1_result.jpg` due to the limited paper space.
@@ -167,8 +176,3 @@ The overall result is saved here named `RQ2_result.jpg` due to the limited paper
 
 The overall result is saved here named `RQ3_result.jpg` due to the limited paper space.
 ![](images/RQ3.png)
-
-
-![](images/SEED.png)
-
-![](images/RFI.png)
