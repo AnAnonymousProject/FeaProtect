@@ -61,7 +61,7 @@ obtained from a variety of tasks, including price prediction and disease diagnos
 
 Please note that PyTorch and RDT are the packages required for Tave.
 
-Still, if you are confused with the environment setting, we also provided a file named `requirement.txt` to facilitate the installation process. You can directly use the script below. You can choose to use _pip_ or _conda_ in the script.
+You can directly use the script below. You can choose to use _pip_ or _conda_ in the script.
 
 ~~~
 conda create -n Feaproct python=3.8
